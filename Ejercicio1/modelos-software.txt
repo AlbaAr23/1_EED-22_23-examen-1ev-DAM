@@ -1,5 +1,2 @@
-Modelos de desarrollo software:
-Modelo cascada
-Modelo cascada freedback
+Modelo de desarrollo software:
 Modelo interativo incremental
-Modelo agile
